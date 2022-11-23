@@ -5,3 +5,7 @@
 - numpy
 - matplotlob
 - pandas
+- tensorflow
+- tensorboard
+- datetime
+- keras
